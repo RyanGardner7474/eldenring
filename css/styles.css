@@ -1,0 +1,75 @@
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+/*font-family: 'Lora', serif;*/
+
+/*fonts*/
+
+*, *:before, *:after {
+    box-sizing: inherit;
+    padding: 0;
+    margin:0;
+    border:0;
+}
+
+body {
+	background-color:#FFECDA;
+}
+
+.rightimg {
+	float:right;
+}
+
+nav {
+	border-bottom: #5E5652 solid 10px;
+	margin-bottom:20px;
+	background-color: #5E5652;
+}
+
+li {
+	padding-left:18px;
+	background-color: #5E5652;
+}
+
+ul {
+	list-style-type: none;
+	text-align:center;
+	width:100%;
+	padding:10px 0;
+}
+
+ul li{
+	display:inline-block;
+	width:12.5%;
+}
+
+a {
+	text-decoration: none;
+	color: #D9C803;
+	font-size:1.5em;
+	font-weight:bold;
+	font-family: 'Lora', serif;
+}
+
+p {
+	text-align:center;
+	margin: 0 40px;
+	font-size:1.2em;
+}
+
+
+
+.fnav {
+	border:none;
+}
+
+.fnav ul{
+	margin-top:250px;
+}
+
+.fnav a {
+	font-size:1.2em;
+}
+
+.copyright {
+	font-size:0.7em;
+}
