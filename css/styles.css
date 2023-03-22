@@ -53,6 +53,7 @@ p {
 	text-align:center;
 	margin: 0 40px;
 	font-size:1.2em;
+	margin-bottom:250px;
 }
 
 
@@ -63,7 +64,7 @@ p {
 }
 
 .fnav ul{
-	padding-top:250px;
+	
 }
 
 .fnav a {
