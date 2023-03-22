@@ -59,6 +59,7 @@ p {
 
 .fnav {
 	border:none;
+	border-top: #1D1A19 solid 4px;
 }
 
 .fnav ul{
